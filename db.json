@@ -1,0 +1,112 @@
+{
+    "profile": {
+        "id": 1,
+        "name": "John Snow",
+        "imageUrl": "image1.jpg",
+        "address": "B-47, Paris, France",
+        "contactNumber": 9876543210,
+        "emailId": "john@example.com",
+        "website": "www.johnsnow.com"
+    },
+    "timeRequests": [
+        {
+            "id": 1,
+            "requestedBy": "Rick",
+            "requestedTo": "Morty",
+            "requestedFor": "Cross-country Trip",
+            "requestedTime": "12:00 PM"
+        },
+        {
+            "id": 2,
+            "requestedBy": "Harry",
+            "requestedTo": "Sally",
+            "requestedFor": "Inter-city Championship",
+            "requestedTime": "11:00 AM"
+        },
+        {
+            "id": 3,
+            "requestedBy": "Ross",
+            "requestedTo": "Rachael",
+            "requestedFor": "Beach Trip",
+            "requestedTime": "09:00 AM"
+        }
+    ],
+    "studentRequests": [
+        {
+            "id": 1,
+            "requestedBy": "Jon",
+            "requestedFor": "Class A"
+        },
+        {
+            "id": 2,
+            "requestedBy": "Missandrae",
+            "requestedFor": "Basic Driving"
+        },
+        {
+            "id": 3,
+            "requestedBy": "Tyrion",
+            "requestedFor": "SUV driving"
+        },
+        {
+            "id": 1,
+            "requestedBy": "Tywin",
+            "requestedFor": "Class C"
+        }
+    ],
+    "eventCalender": [
+        {
+            "id": 1,
+            "requestedBy": "Rick",
+            "requestedTo": "Morty",
+            "requestedFor": "Cross-country Trip",
+            "requestedTime": "12:00 PM"
+        },
+        {
+            "id": 2,
+            "requestedBy": "Harry",
+            "requestedTo": "Sally",
+            "requestedFor": "Inter-city Championship",
+            "requestedTime": "11:00 AM"
+        },
+        {
+            "id": 3,
+            "requestedBy": "Ross",
+            "requestedTo": "Rachael",
+            "requestedFor": "Beach Trip",
+            "requestedTime": "09:00 AM"
+        },
+        {
+            "id": 4,
+            "requestedBy": "Chandler",
+            "requestedTo": "Monika",
+            "requestedFor": "Cross-Country Trip",
+            "requestedTime": "04:00 PM"
+        }
+    ],
+    "studentsProgress" : [
+        {
+            "id": 1,
+            "name": "Chandler",
+            "progress": "75%",
+            "performance": "75%"
+        },
+        {
+            "id": 2,
+            "name": "Monica",
+            "progress": "40%",
+            "performance": "60%"
+        },
+        {
+            "id": 3,
+            "name": "Ross",
+            "progress": "80%",
+            "performance": "60%"
+        },
+        {
+            "id": 4,
+            "name": "Rachael",
+            "progress": "50%",
+            "performance": "40%"
+        }
+    ]
+}
